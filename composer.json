@@ -1,0 +1,20 @@
+{
+    "name": "vay/framework",
+    "description": "lessons",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/",
+            "Vay\\Framework\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ibrahim aleroev",
+            "email": "ibrohim238@mail.ru"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
